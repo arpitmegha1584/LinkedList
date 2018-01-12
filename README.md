@@ -1,7 +1,7 @@
 # LinkedList
 
 LinkedList Class without Collection Usage
-  1) Operations - Add, delete tail element
-  2)  Remove all element in the linkedlist that is great than a target value  
-    To do this first I have did a sort and then did delete.
+  1) Operations - Add a element, delete the tail element
+  2)  Remove all elements in the linkedlist that is greater than a target value specified 
+      To do this I did a sort and then went for delink.
   
